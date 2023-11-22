@@ -3,7 +3,9 @@
             height: 100%;
             width: 100%;
             padding: 0;
-            margin: 0;
+		/* Dev 2 adding changes */
+            margin_1: 0;
+	    margin_2: 0;
         }
         @font-face{
             font-family: "Segoe UI";
